@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eeroa/AndroidStudioProjects/FINAL_OLIO/app/src/main/res/layout/activity_main_page.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/eeroa/AndroidStudioProjects/FINAL_OLIO/app/src/main/res/layout/activity_main_profilli.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/eeroa/AndroidStudioProjects/FINAL_OLIO/app/src/main/res/layout/activity_movie_info_page.xml" value="0.5" />
+        <entry key="..\:/Users/eeroa/AndroidStudioProjects/FINAL_OLIO/app/src/main/res/layout/activity_new_email_password.xml" value="0.3671875" />
+        <entry key="..\:/Users/eeroa/AndroidStudioProjects/FINAL_OLIO/app/src/main/res/layout/activity_news_page.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/eeroa/AndroidStudioProjects/FINAL_OLIO/app/src/main/res/layout/activity_reset_password.xml" value="0.3671875" />
+        <entry key="..\:/Users/eeroa/AndroidStudioProjects/FINAL_OLIO/app/src/main/res/layout/activity_showview.xml" value="0.3151041666666667" />
+        <entry key="..\:/Users/eeroa/AndroidStudioProjects/FINAL_OLIO/app/src/main/res/layout/settings_activity.xml" value="0.3671875" />
+        <entry key="..\:/Users/eeroa/AndroidStudioProjects/FINAL_OLIO/app/src/main/res/layout/testo.xml" value="0.31145833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

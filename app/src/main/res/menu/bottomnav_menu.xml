@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/homepage"
+        />
+    <item
+        android:title="Movies"
+        android:icon="@drawable/ic_baseline_local_movies_24"
+        android:id="@+id/moviespage"
+        />
+    <item
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:id="@+id/profiilipage"
+        />
+    <item
+        android:title="News"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        android:id="@+id/newspage"/>
+</menu>
